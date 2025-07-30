@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Dancing+Script:wght@500&family=Nunito:wght@200&family=Phudu&family=Smokum&family=Tilt+Prism&display=swap');
+
+/* pre{
+    margin-left: 70px;
+    font-family: 'Nunito', sans-serif;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+} */
+.allskills{
+    height: 100vh;
+    display: flex;
+    margin-left: 7vh;
+}
+
+.frontend
+{
+    margin-left: 100px;
+    margin-top: 15vh;
+    
+}
+
+.html
+{
+
+    height: 56px;
+    background-color: greenyellow;
+    position: relative;
+    border-radius: 15px;
+    font-family: 'Smokum', cursive;
+    animation-name: example1;
+    animation-duration: 2s;
+     animation-fill-mode: forwards;
+}
+
+@keyframes example1 
+{
+    from {width: 1px;}
+    to {width: 296px;;}    
+}
+
+.css
+{
+    width: 230px;
+    height: 56px;
+    background-color: orange;
+    position: relative;
+    border-radius: 15px;
+    font-family: 'Smokum', cursive;
+    animation-name: example2;
+    animation-duration: 2s;
+     animation-fill-mode: forwards;
+}
+
+@keyframes example2
+{
+    from {width: 1px;}
+    to {width: 220px;;}    
+}
+.javascript
+{
+   
+    height: 56px;
+    background-color: orange;
+    position: relative;
+    border-radius: 15px;
+    font-family: 'Smokum', cursive;
+    animation-name: example3;
+    animation-duration: 2s;
+     animation-fill-mode: forwards;
+}
+
+@keyframes example3
+{
+    from {width: 1px;}
+    to {width: 260px;;}    
+}
+
+.cssskill
+{
+    padding-top: 40px;
+  
+}
+.jsskill
+{
+    padding-top: 40px;
+  
+}
+h3{
+    margin-left: 15px;
+    padding-top: 5px;
+    color: rgb(6, 5, 5);
+    font-size: 30px;
+ 
+}
+
+.skillname
+{
+    color: black;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.moreskills
+{
+    margin-left: 20vh;
+    margin-top: 15vh;
+    padding-bottom: 20px;
+}
+.cpp
+{
+  
+    height: 56px;
+    background-color: greenyellow;
+    position: relative;
+    border-radius: 15px;
+    font-family: 'Smokum', cursive;
+    animation-name: example4;
+    animation-duration: 2s;
+     animation-fill-mode: forwards;
+}
+
+@keyframes example4
+{
+    from {width: 1px;}
+    to {width: 296px;;}    
+}
+.react
+{
+    height: 56px;
+    background-color: orange;
+    position: relative;
+    border-radius: 15px;
+    font-family: 'Smokum', cursive;
+    animation-name: example5;
+    animation-duration: 2s;
+     animation-fill-mode: forwards;
+}
+
+@keyframes example5
+{
+    from {width: 1px;}
+    to {width: 230px;;}    
+}
+.node
+{
+    width: 190px;
+    height: 56px;
+    background-color: rgb(255, 64, 0);
+    position: relative;
+    border-radius: 15px;
+    font-family: 'Smokum', cursive;
+    animation-name: example6;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+@keyframes example6
+{
+    from {width: 1px;}
+    to {width: 170px;;}    
+}
+
+.reactskill
+{
+    padding-top: 40px;
+  
+}
+.nodeskill
+{
+    padding-top: 40px;
+  
+}
+.programming
+{
+    margin-left: 20vh;
+    margin-top: 15vh;
+    padding-bottom: 20px;
+}
+
+.Java{
+     
+    height: 56px;
+    background-color: greenyellow;
+    position: relative;
+    border-radius: 15px;
+    font-family: 'Smokum', cursive;
+    animation-name: example4;
+    animation-duration: 2s;
+     animation-fill-mode: forwards;
+
+}
+
+.python{
+     
+    height: 56px;
+    background-color: greenyellow;
+    position: relative;
+    border-radius: 15px;
+    font-family: 'Smokum', cursive;
+    animation-name: example4;
+    animation-duration: 2s;
+     animation-fill-mode: forwards;
+
+}
+
+.c{
+     
+    height: 56px;
+    background-color: greenyellow;
+    position: relative;
+    border-radius: 15px;
+    font-family: 'Smokum', cursive;
+    animation-name: example4;
+    animation-duration: 2s;
+     animation-fill-mode: forwards;
+
+}
+
+.Cskill
+{
+    padding-top: 40px;
+}
+
+.Pythonskill
+{
+    padding-top: 40px;
+}
+
+
